@@ -1,4 +1,4 @@
-# Echoes of the Forgotten - Build 1.1.0
+# Echoes of the Forgotten - Build 1.1.0b
 
 ---
 
